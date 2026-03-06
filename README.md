@@ -5,7 +5,7 @@ A FastAPI application that provides:
 🗞 Daily briefing (Weather + News in parallel)
 
 **Setup Instruction and run the project.**
-1.Clone the repository.
+1.Clone the repository on "https://github.com/rituja-kas/Weather-NewsAPI"
 2.Create the virtual environment by using -"python -m venv venv" 
 3.pip install fastapi uvicorn httpx python-dotenv install dependencies. 
 4.Mention the API_KEY in .env file.
