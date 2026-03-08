@@ -4,3 +4,4 @@ gunicorn
 requests
 aiohttp
 httpx
+dotenv
